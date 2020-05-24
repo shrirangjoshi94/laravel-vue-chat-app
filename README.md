@@ -14,14 +14,14 @@
    ```
  8. Run the below commands
     
-    . composer install
+    ```composer install```
     
-    . npm install
+    ```npm install```
     
-    . npm run prod
+    ```npm run prod```
     
-    . php artisan websocket:serve
+    ```php artisan websocket:serve```
     
-    . php artisan serve
+    ```php artisan serve```
     
 
